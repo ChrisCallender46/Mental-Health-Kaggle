@@ -1,0 +1,1 @@
+In this project, I completed the mental health Kaggle competition using Python. I built a machine learning model to predict if people had depression, based on information such as gender, age, and profession. 
